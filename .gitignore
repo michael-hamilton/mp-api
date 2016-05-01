@@ -1,0 +1,9 @@
+#OS/Package Manager
+bower_components
+node_modules
+
+#Editor
+.idea
+
+#Logs
+*.log
